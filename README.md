@@ -1,6 +1,5 @@
-### Hi there 👋
+# Hi there 👋
 
-My CodeWars: https://www.codewars.com/users/Securedill
+#### My CodeWars: https://www.codewars.com/users/Securedill
 
-My FreelanceHunt:
-https://freelancehunt.com/freelancer/securedill.html
+#### My FreelanceHunt: https://freelancehunt.com/freelancer/securedill.html
